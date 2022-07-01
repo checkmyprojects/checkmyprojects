@@ -101,7 +101,7 @@
 
 <hr>
 
-<h1 align="center">Technologies</h1>
+<h1 align="center">Technologies & Tools</h1>
 <p align="center"> 
     <a href="https://angular.io" target="_blank" rel="noreferrer"> 
         <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
