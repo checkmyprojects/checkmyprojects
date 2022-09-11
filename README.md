@@ -20,12 +20,51 @@
 
 <h1 align="center">My Projects</h1>
 <table>
+
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Selection Process Frontend</h3>
+        <br />
+        <a target="_blank" href="https://github.com/checkmyprojects/recruitment-process-frontend">
+            <img src="img/selection-frontend.gif" width="100%" alt="Selection Process frontend"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/checkmyprojects/recruitment-process-frontend" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://github.com/checkmyprojects/recruitment-process-frontend" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Angular, Typescript, Angular Material, CSS, PDFMake, JsPDF, SheetJS, ChartJS</strong> - Selection process management app. Can export data as PDF or XLS.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Selection Process Backend</h3>
+        <br />
+      <a target="_blank" href="https://github.com/checkmyprojects/recruitment-process-backend">
+            <img src="img/selection-backend.jpg" width="100%"  alt="Selection Process Backend"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/checkmyprojects/recruitment-process-backend" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://github.com/checkmyprojects/recruitment-process-backend" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Java, Spring Boot, Spring Security, JWT, MySQL, JavaMail</strong> - Backend for Selection Process app. Sends email to confirm interview and has a stats endpoint.</p>
+    </td>
+  </tr>
   
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">BurgerPalace</h3>
         <br />
-        <a target="_blank" href="https://myburgerpalace.herokuapp.com/">
+        <a target="_blank" href="https://github.com/checkmyprojects/recruitment-process-backend">
             <img src="img/burgerpalace-anim.gif" width="100%" alt="Burgerpalace"/>
         </a>
         <br />
@@ -44,7 +83,7 @@
       <h3 align="center">BurgerPalace Backend</h3>
         <br />
       <a target="_blank" href="https://myburgerpalace.herokuapp.com/">
-            <img src="img/burgerpalace-backend.jpg" width="100%"  alt="Rigley 2"/>
+            <img src="img/burgerpalace-backend.jpg" width="100%"  alt="BurgerPalace Backend"/>
         </a>
         <br />
         <p align="center">
@@ -65,7 +104,7 @@
       <h3 align="center">TechEvents</h3>
       <br />
         <a target="_blank" href="https://github.com/checkmyprojects/TechEvents">
-          <img src="img/techevents-anim.gif" width="100%" alt="Portfolio"/>
+          <img src="img/techevents-anim.gif" width="100%" alt="Techevents"/>
         </a>
       <br />
         <p align="center">
@@ -82,7 +121,7 @@
       <h3 align="center">FilmCity Frontend</h3>
         <br />
         <a target="_blank" href="https://github.com/checkmyprojects/filmcity-frontend">
-          <img src="img/filmcity.jpg" width="100%" alt="Matching Cards"/>
+          <img src="img/filmcity.jpg" width="100%" alt="FilmCity"/>
         </a>
         <br />
         <p align="center">
