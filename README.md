@@ -120,8 +120,8 @@
     <td width="50%" valign="top">
       <h3 align="center">Katas / Codewars</h3>
         <br />
-        <a target="_blank" href="https://github.com/checkmyprojects/filmcity-frontend">
-          <img src="img/codewars.jpg" width="100%" alt="FilmCity"/>
+        <a target="_blank" href="https://github.com/checkmyprojects/codewars-solutions">
+          <img src="img/codewars.jpg" width="100%" alt="Katas / Codewars"/>
         </a>
         <br />
         <p align="center">
