@@ -118,22 +118,22 @@
         <p><strong>Java, Spring Boot, Spring Security, Thymeleaf, Bootstrap</strong> - App to manage events. Admin can do CRUD of events and users. Users can add/remove themselves from events if there are any free spot. It has a history of past events.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">FilmCity Frontend</h3>
+      <h3 align="center">Katas / Codewars</h3>
         <br />
         <a target="_blank" href="https://github.com/checkmyprojects/filmcity-frontend">
-          <img src="img/filmcity.jpg" width="100%" alt="FilmCity"/>
+          <img src="img/codewars.jpg" width="100%" alt="FilmCity"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/checkmyprojects/filmcity-frontend" target="_blank">
+  <a href="https://github.com/checkmyprojects/codewars-solutions" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://github.com/checkmyprojects/filmcity-frontend" target="_blank">
+  <a href="https://github.com/checkmyprojects/codewars-solutions" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - Frontend for a movie rental backend.</p>
+        <p><strong>Javascript, Java</strong> - I like to do a kata every day.</p>
     </td>
   </tr>
 </table>
