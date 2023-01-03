@@ -64,7 +64,7 @@
     <td width="50%" valign="top">
       <h3 align="center">BurgerPalace</h3>
         <br />
-        <a target="_blank" href="https://github.com/checkmyprojects/recruitment-process-backend">
+        <a target="_blank" href="https://github.com/checkmyprojects/burgerpalace-frontend">
             <img src="img/burgerpalace-anim.gif" width="100%" alt="Burgerpalace"/>
         </a>
         <br />
