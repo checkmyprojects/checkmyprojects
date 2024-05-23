@@ -62,7 +62,7 @@
       <h3 align="center">BurgerPalace</h3>
         <br />
         <a target="_blank" href="https://github.com/checkmyprojects/burgerpalace-frontend">
-            <img src="img/burgerpalace-anim.gif" width="100%" alt="Burgerpalace"/>
+            <img src="https://raw.githubusercontent.com/checkmyprojects/burgerpalace-frontend/main/src/assets/img/logo.png" width="100%" alt="Burgerpalace"/>
         </a>
         <br />
         <p align="center">
